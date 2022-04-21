@@ -1,0 +1,9 @@
+1. Please give attribution for your environment map image INCLUDING any conversion process you did.
+
+map: https://genshin-impact.fandom.com/wiki/Liyue
+conversion: https://360toolkit.co/convert-spherical-equirectangular-to-cubemap
+
+2. Please explain what you were trying to make with your bump/normal map, and whether it is a bump or normal map.
+I am trying to make the sphere to have the lines circled around it
+It is a bump map
+

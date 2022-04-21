@@ -1,0 +1,10 @@
+Three different behaviors that you made:
+1. Compressor crushing to the yellow wall
+2. The car moves around the track like a infinity symbol ∞
+3. The bird is flying with the Radar dish that looks at it.
+
+One behavior that is not simple:
+Not simple: The car moves around the track like a infinity symbol ∞ or the Helicopter
+
+Animated Articulated Figure:
+Articulated: ???

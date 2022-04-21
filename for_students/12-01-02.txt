@@ -1,0 +1,17 @@
+1. What is the difference between a bump map and a normal map?
+
+The primary difference is that normal maps have more information in them(because they use an rgb input) to give a more accurate bump effect. The rgb information in the normal maps correspond to the x,y,z axis.
+Bump maps use only a black to white map to understand the depth
+
+2. What is the difference between a "correct skybox" and simply putting a big cube around the world?
+
+With the correct skybox, the box moves when the camera moves. However, if you just simply put a big cube around the world, eventually you will get close to the walls of the box. So the illusion that the things are far away will disappear. 
+
+3. Why is a sphere a good object for environment mapping, but a flat square is less good?
+
+Because the sphere is round and it has bottom and top faces that can correctly reflect the environment. However, a flat sqaure only has two sides and it limits the things that it can reflect. 
+
+4. What are the main choices for how to represent environment map images? Why might you pick one or the other?
+
+Cubic Environment Maps, Spherical Environment Maps, Cylindrical Environment Maps.
+Cubic Environment Maps are a popular choice because they are easy to author. You just take 6 regular pictures that fit together. It is really easy in computer graphics to point the camera in 6 directions. Another advantage of cubic environment maps is that it just uses 12, usual triangles (albeit big ones).

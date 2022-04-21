@@ -1,0 +1,21 @@
+Two kinds of objects created for this assignment:
+1. "car"- I used the one that I build from workbook 9
+2. "sheep"- I build this sheep from the website I found on the web, which I gave the attribution in the later box.  
+
+Five other kinds of objects that you created:
+3. House-1- I used the geometry that I build in the previous workbook
+4. TREE- small green trees. I actually want to make them to seem like bush.
+5. bird-1 - It is also from the previous workbook that I builed. 
+6. Compressor - it might be used by the villagers to crush the wheat or something
+7. Helicopter-0 - The one in the Helicopter.js
+
+At least on of each type of object:
+Building/structure: House-1
+Vehicle: car
+Natural Element: YellowTree
+
+Object loaded from a model file: Helicopter
+Model: "Helicopter"
+
+An object with a shader that you wrote:
+ShaderObj: Compressor
